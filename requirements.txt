@@ -1,2 +1,0 @@
-# list of python modules and possible dependencies which are needed for reproducing the workflow
-xarray
