@@ -1,4 +1,4 @@
-# Research workflow repository of the EOAFrica/Vidi GNSS-IR paper reproducable_research_template
+# Repository of EOAFrica/06_AQ4ZIM_ZW_NL
 
 # Instructions for reproducing the workflows
 
